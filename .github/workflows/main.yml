@@ -1,4 +1,4 @@
-name: SUBZERO-MD-X-MR-
+name: SUBZERO
 
 on:
   workflow_dispatch:
